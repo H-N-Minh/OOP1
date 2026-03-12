@@ -1,0 +1,203 @@
+[33mcommit 9b40ea058e464eef7f546826a71a6a0e277fb489[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Minh <minhsuper24@gmail.com>
+Date:   Sun Apr 23 21:42:03 2023 +0200
+
+    hi
+
+[33mcommit 34d45cc75a0c580563386ecccca2d64476e0cc80[m
+Author: Minh <minhsuper24@gmail.com>
+Date:   Sun Apr 23 21:41:34 2023 +0200
+
+    hi
+
+[33mcommit 19dd2a5540c257cca6c6972ab1918f0f84176e15[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Karakas, Aleksandar <aleksandar.karakas@tugraz.at>
+Date:   Sun Mar 19 18:44:11 2023 +0100
+
+    fix mistake solution of week_4/plants_inheritance
+
+[33mcommit 53d80ce89dc28cd4692eb07e234b7805bd0d2dcc[m
+Author: Karakas, Aleksandar <aleksandar.karakas@tugraz.at>
+Date:   Sun Mar 12 19:28:04 2023 +0100
+
+    fix style (naming of functions) in pets_0
+
+[33mcommit a3eda211caf005878b2be06379bcb63d141068bd[m
+Author: Teichmann, Tobias <tobias.teichmann@student.tugraz.at>
+Date:   Tue Mar 7 14:25:52 2023 +0100
+
+    adapted repo for SS23
+
+[33mcommit 2e42d0e557ddb972471af6b0c9620bf5fa206d70[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Thu Jul 7 17:34:28 2022 +0200
+
+    add exam question (20220623)
+
+[33mcommit bd73b0335efd781639517f2b8839744a0520be59[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Thu Jul 7 17:33:40 2022 +0200
+
+    add end marker of citation
+
+[33mcommit 2bb4b341bef66a0ad5cd01b3255a7dfc741daaeb[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Jun 3 01:50:34 2022 +0200
+
+    paste students' solution with auto-format turned off
+
+[33mcommit 593b32daa5982e037ed01ed94cc2ce7e47013285[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Tue May 31 13:14:19 2022 +0200
+
+    add exam question (20220525)
+
+[33mcommit 6e26a0e8fccd3eb8b5f41d1af9dcd01bd0d16fe0[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Sun May 15 22:31:31 2022 +0200
+
+    add week_9/plants_composition
+
+[33mcommit 594d38d8b0e401309c9b39666fc731dd01a4ad51[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Tue May 3 18:40:16 2022 +0200
+
+    add week_6_7/smart_pointers
+
+[33mcommit b90a186ecdb24e464ea0e63d856bfc96b644f691[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Tue May 3 15:41:01 2022 +0200
+
+    add attritution in operator_overloading_and_exceptions
+
+[33mcommit 358bad008fa14106d08dc90f54bd05f997b4cb16[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Tue May 3 02:40:51 2022 +0200
+
+    add week_6_7/operator_overloading_and_exceptions
+
+[33mcommit 8f706e1162b4f4c8b25ad608b2e960b6bbb7a093[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Tue Apr 12 20:59:01 2022 +0200
+
+    add week_5/read_tugraz_file
+
+[33mcommit 787ca653c37b0b4fa232343492c10d476c697432[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Apr 1 01:58:35 2022 +0200
+
+    add week_5/cost_summary
+
+[33mcommit bc07217cf1674d5d46e89b55f695a03b162be6c9[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Apr 1 01:51:43 2022 +0200
+
+    add week_3/pets_10_split_file
+
+[33mcommit 1aa88bd5a6eb5a4f836a94f90f59bcac00473684[m
+Author: Karakas, Aleksandar <aleksandar.karakas@tugraz.at>
+Date:   Fri Apr 1 00:07:08 2022 +0200
+
+    fix indentation in collapsible HTML-elements
+
+[33mcommit b1c8e5edcb47c1801a5f56e01472d5c35b66ca8a[m
+Author: Karakas, Aleksandar <aleksandar.karakas@tugraz.at>
+Date:   Thu Mar 31 23:24:46 2022 +0200
+
+    fix wrong link
+
+[33mcommit 2e03d13832b1c5ef10b7513c6d84c3381a331b2c[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Thu Mar 31 04:55:49 2022 +0200
+
+    week_3/pets_9_id_and_better_counting
+
+[33mcommit 0d2b10026057bbe213e2265df6491cce87e5b3fc[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 30 03:24:33 2022 +0200
+
+    add attribution in first seven exercises
+
+[33mcommit 46dcba244568f0a49edcacde7c576dcfaf16a908[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 30 03:21:43 2022 +0200
+
+    week_3/pets_8_copy_constructor
+
+[33mcommit 87579f0ec64c2a93848b3cbacae6cc66a309d1bd[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 30 03:21:23 2022 +0200
+
+    add week_3/pets_7_static_members
+
+[33mcommit 9ffe278de62e7ca9aad6b704f2e88b0940ab21c1[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Mar 25 01:14:23 2022 +0100
+
+    add test folder to week4/calculations_inheritance/solution to suppress testrunner error message
+
+[33mcommit c4efd75a390b37b2a4346d476a37b92a92897002[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Mar 25 01:00:53 2022 +0100
+
+    add week4/plants_inheritance
+
+[33mcommit 30de049c69e10c50f91de67955b3e005901bb776[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Fri Mar 25 00:22:05 2022 +0100
+
+    add week4/calculations_inheritance
+
+[33mcommit c8b3517adca317cb9c356caa5088846d420b850d[m
+Author: Michael Guttmann <michael.guttmann@student.tugraz.at>
+Date:   Fri Mar 18 13:03:28 2022 +0100
+
+    added testrunner
+
+[33mcommit 8bd0e6136f89297f3c1543b2245209f1e9fe99ae[m
+Author: Michael Guttmann <michael.guttmann@student.tugraz.at>
+Date:   Thu Mar 17 12:04:06 2022 +0100
+
+    added readme
+
+[33mcommit 3f183da75290d917f5a7c0bc92de601aedeb3545[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Thu Mar 17 00:22:12 2022 +0100
+
+    add week_2/pets_6_more_constructors
+
+[33mcommit 400ff1d2bd2bd84336e83367f7889ae91ba56aee[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Thu Mar 17 00:21:43 2022 +0100
+
+    add week_2/pets_5_access_specifier
+
+[33mcommit 59b4c0ba84c3dac415aa6031b5473ea47a771cc6[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 16 19:54:12 2022 +0100
+
+    add week_2/pets_4_object_as_parameter
+
+[33mcommit 271bc0a27bd01d4e376d1e6924a93a26222e2022[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 16 19:53:57 2022 +0100
+
+    add week_2/pets_3_method
+
+[33mcommit 2c84fc85ef4cece37c3fbb16ffbd5d4b6c8b8033[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 16 19:53:32 2022 +0100
+
+    add week_2/pets_2_struct
+
+[33mcommit 0967a8604692e75274e38c25df0fe91856002bcd[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 16 16:57:43 2022 +0100
+
+    add week_2/pets_1_enum
+
+[33mcommit 8243f0f33ff078c636cfcaf2b3e054d378e3be85[m
+Author: Aleksandar Karakas <aleksandar.karakas@tugraz.at>
+Date:   Wed Mar 16 16:57:01 2022 +0100
+
+    add week_1/pets_0_cout_pointers_references
